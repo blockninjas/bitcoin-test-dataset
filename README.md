@@ -14,6 +14,8 @@ or something else. Each line contains the following data:
 
 Every transaction regarding the starting Bitcoin Adress mentioned above is resolved in a way that every input Address is in correlation to each output Address. 
 
+ATTENTION: To get the Bitcoin Amount you have to devide the "Satoshi Amount" by 100.000.000!!!
+
 Example:
 
 A transaction contains the following input side:
