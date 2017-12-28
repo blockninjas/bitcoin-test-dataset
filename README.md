@@ -17,22 +17,27 @@ Every transaction regarding the starting Bitcoin Adress mentioned above is resol
 Example:
 
 A transaction contains the following input side:
+```
   A 12.5
   B 10.2
   C 2
+```
 
 and the following output side:
+```
   Y 12.2
   Z 12.5
-
+```
 The the data in the file would be
+```
   A Y 12.5
   B Y 10.2
   C Y 2
   A Z 12.5
   B Z 10.2
   C Y 2
-
+```
 LaTeX citation:
-
+```
   @misc{dinhobl_2017, title={TUViennaBitcoinSet}, url={https://github.com/mrqc/bitcoin-test-dataset.git}, publisher={Erhard Dinhobl}, author={Dinhobl, Erhard}, year={2017}, month={Dec}} 
+```
