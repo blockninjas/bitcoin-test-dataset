@@ -37,7 +37,7 @@ The the data in the file would be
   C Y 2
   A Z 12.5
   B Z 10.2
-  C Y 2
+  C Z 2
 ```
 LaTeX citation:
 ```
