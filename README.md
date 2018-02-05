@@ -41,5 +41,5 @@ The the data in the file would be
 ```
 LaTeX citation:
 ```
-  @misc{dinhobl_2017, title={TUViennaBitcoinSet}, url={https://github.com/mrqc/bitcoin-test-dataset.git}, publisher={Erhard Dinhobl}, author={Dinhobl, Erhard}, year={2017}, month={Dec}} 
+  @misc{dinhobl_bitcoin_testset_2017, title={TUViennaBitcoinSet}, url={https://github.com/mrqc/bitcoin-test-dataset.git}, publisher={Erhard Dinhobl}, author={Dinhobl, Erhard}, year={2017}, month={Dec}} 
 ```
